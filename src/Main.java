@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Домашка 9");
         System.out.println();
-        System.out.println("Задание 1");
+        System.out.println("Задание №1");
         int[] monthlySalary = {35000, 32000, 38000, 36000, 45000};
         int totalSalary = 0;
         for (int i = 0; i < monthlySalary.length; i++) {
